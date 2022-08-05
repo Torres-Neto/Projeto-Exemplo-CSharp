@@ -1,0 +1,11 @@
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\bin\Debug\ProjetoExemplo.WindowsForms.UI.exe.config
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\bin\Debug\ProjetoExemplo.WindowsForms.UI.exe
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\bin\Debug\ProjetoExemplo.WindowsForms.UI.pdb
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\obj\Debug\ProjetoExemplo.WindowsForms.UI.csproj.AssemblyReference.cache
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\obj\Debug\ProjetoExemplo.WindowsForms.UI.csproj.SuggestedBindingRedirects.cache
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\obj\Debug\ProjetoExemplo.WindowsForms.UI.FFormularioInicial.resources
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\obj\Debug\ProjetoExemplo.WindowsForms.UI.Properties.Resources.resources
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\obj\Debug\ProjetoExemplo.WindowsForms.UI.csproj.GenerateResource.cache
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\obj\Debug\ProjetoExemplo.WindowsForms.UI.csproj.CoreCompileInputs.cache
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\obj\Debug\ProjetoExemplo.WindowsForms.UI.exe
+D:\Github\Projeto-Exemplo-CSharp\ProjetoExemplo.WindowsForms.UI\obj\Debug\ProjetoExemplo.WindowsForms.UI.pdb
